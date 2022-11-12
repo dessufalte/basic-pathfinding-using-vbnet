@@ -1,0 +1,24 @@
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.exe.config
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.exe
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.pdb
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.xml
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial_Intelejen.Form1.resources
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial_Intelejen.Resources.resources
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbproj.GenerateResource.Cache
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.exe
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.xml
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.pdb
+D:\ai\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbprojResolveAssemblyReference.cache
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.exe.config
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.exe
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.pdb
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\bin\Debug\Artifisial Intelejen.xml
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbproj.AssemblyReference.cache
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbproj.SuggestedBindingRedirects.cache
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial_Intelejen.Form1.resources
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial_Intelejen.Resources.resources
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbproj.GenerateResource.cache
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.vbproj.CoreCompileInputs.cache
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.exe
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.xml
+G:\PROJEK VB.NET\AI\Artifisial Intelejen\Artifisial Intelejen\obj\Debug\Artifisial Intelejen.pdb
